@@ -1,5 +1,5 @@
-fn main() {
-// CReation
+fn variables_data (){
+    // CReation
     let a = 5;
     println!("variabel a is {a}");
 // Mutability
@@ -19,6 +19,12 @@ fn main() {
     }
     println!( "variable d is {d}");
 
+
+
+
+}
+fn main() {
+    variables_data()
 
 }
 
